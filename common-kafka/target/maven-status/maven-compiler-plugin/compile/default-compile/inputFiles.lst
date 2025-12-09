@@ -1,0 +1,8 @@
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/GsonDeserializer.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/GsonSerializer.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/KafkaDispatcher.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/KafkaService.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/ParserConsumeRecord.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/ParserConsumeRecordEmail.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/ParserConsumeRecordFraudDetector.java
+/home/foliveira/workspace/ecommerce/common-kafka/src/main/java/dev/franklindeoliveira/ecommerce/ParserConsumeRecordLog.java
